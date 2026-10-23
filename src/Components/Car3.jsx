@@ -6,8 +6,8 @@ import Maruthi from '../assets/maruthi.jpg';
 import Hyndai from '../assets/hyndai.jpg';
 import HondaCity from '../assets/hondacity.jpg';
 import Skoda from '../assets/Skoda.jpg';
-import Creta from '../assets/Creta.jpg';
-import Mahindra from '../assets/Mahindra.jpg';
+import Creta from "../assets/creta.jpg";
+import Mahindra from '../assets/mahindra.jpg';
 import Toyato from '../assets/toyato.jpg';
 import kia from '../assets/kia.jpg'
 function Car3() {
