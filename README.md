@@ -1,16 +1,37 @@
-# React + Vite
+# Car Rental System 🚗
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive car rental web application built using React.
 
-Currently, two official plugins are available:
+## Features
+- Browse available rental cars
+- Filter cars by category
+- Select a city and pickup date
+- View car details and rental prices
+- Calculate booking costs based on rental days
+- Select optional add-ons
+- Navigate between pages using React Router
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Local Storage
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone this repository.
+2. Install dependencies:
 
-## Expanding the ESLint configuration
+   ```bash
+   npm install
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Start the development server using the command configured in `package.json` (commonly `npm run dev`).
+
+## Project Type
+Frontend project — no backend or database required.
+
+## Author
+Sudarsan Balaji
